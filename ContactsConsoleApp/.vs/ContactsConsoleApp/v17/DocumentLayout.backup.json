@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\ContactsPersentationLayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6BEBEF7-EB12-4220-8C73-737019C72361}|ContactsPersentationLayer.csproj|c:\\users\\hp\\source\\repos\\contactspersentationlayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6BEBEF7-EB12-4220-8C73-737019C72361}|ContactsPersentationLayer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6DC111-B2D9-4500-90F9-225C511C7981}|..\\ContactsBusinessLayer\\ContactsBusinessLayer.csproj|c:\\users\\hp\\source\\repos\\contactsbusinesslayer\\clscontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84C621B-0DEE-4C46-9916-03733E10C463}|..\\ContactsDataAccessLayer\\ContactsDataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\contactsdataaccesslayer\\contactdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsContact.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ContactsBusinessLayer\\clsContact.cs",
+              "RelativeDocumentMoniker": "..\\ContactsBusinessLayer\\clsContact.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ContactsBusinessLayer\\clsContact.cs",
+              "RelativeToolTip": "..\\ContactsBusinessLayer\\clsContact.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA8wEcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:20:52.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ContactsPersentationLayer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ContactsPersentationLayer\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwE8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:14:48.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\ContactsDataAccessLayer\\ContactDataAccess.cs",
+              "RelativeDocumentMoniker": "..\\ContactsDataAccessLayer\\ContactDataAccess.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\ContactsDataAccessLayer\\ContactDataAccess.cs",
+              "RelativeToolTip": "..\\ContactsDataAccessLayer\\ContactDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMIAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T11:50:57.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

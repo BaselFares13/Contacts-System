@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\ContactsPersentationLayer\bin\Debug\ContactsPersentationLayer.exe.config
+C:\Users\HP\source\repos\ContactsPersentationLayer\bin\Debug\ContactsPersentationLayer.exe
+C:\Users\HP\source\repos\ContactsPersentationLayer\bin\Debug\ContactsPersentationLayer.pdb
+C:\Users\HP\source\repos\ContactsPersentationLayer\bin\Debug\ContactsBusinessLayer.dll
+C:\Users\HP\source\repos\ContactsPersentationLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\HP\source\repos\ContactsPersentationLayer\bin\Debug\ContactsBusinessLayer.pdb
+C:\Users\HP\source\repos\ContactsPersentationLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\HP\source\repos\ContactsPersentationLayer\obj\Debug\ContactsPersentationLayer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ContactsPersentationLayer\obj\Debug\ContactsPersentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ContactsPersentationLayer\obj\Debug\Contacts.433677E6.Up2Date
+C:\Users\HP\source\repos\ContactsPersentationLayer\obj\Debug\ContactsPersentationLayer.exe
+C:\Users\HP\source\repos\ContactsPersentationLayer\obj\Debug\ContactsPersentationLayer.pdb
